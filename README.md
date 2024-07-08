@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**zhenrys/zhenrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  😄 A brief intro about me.
+- 🌱 I’m currently learning statistics and data science in Nankai University.
+- 📫 Contact me: newworld654@126.com
 
-Here are some ideas to get you started:
+## What I'm doing recently
+- Create a blog to share my ideas and learning notes to help more people.
+- Keep learning CS, DS.
+- Share my notes about various aspects of world, especially about movie and travelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My slogan: keep looking, don't settle.
+
+## It's nice to meet you !!😄😄😄
+
+
