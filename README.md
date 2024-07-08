@@ -1,4 +1,4 @@
-## Hi there 👋
+##  👋 Hi there 
 
 ##  😄 A brief intro about me.
 - 🌱 I’m currently learning statistics and data science in Nankai University.
