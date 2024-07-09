@@ -4,6 +4,7 @@
 ##  😄 A brief intro about me.
 - I’m currently learning statistics and data science in Nankai University.
 - 📫 Contact me: newworld654@126.com
+- [My blog website](https://zhenrys.github.io/)
 
 ##  What I'm doing recently
 - Create a blog to share my ideas and learning notes to help more people.
@@ -11,7 +12,7 @@
 - Share my notes about various aspects of world, especially about movie and travelling.
 
 ## My slogan: keep looking, don't settle. 🌱
-![Keep looking&Don't settle](https://github.com/zhenrys/zhenrys/assets/158461986/5cdb78d6-c90b-4f23-9532-3672acaeb013)
+![Don't settle!](https://github.com/zhenrys/zhenrys/assets/158461986/ae49a058-84bb-4f5d-bf10-76c0694cff56)
 
 *photos from https://www.youtube.com/watch?v=Tuw8hxrFBH8*
 
@@ -19,8 +20,15 @@
 
 ---
 
-## 📈 GitHub stats
-![zhenry's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenrys&show_icons=true&theme=radical)
+### 📈 统计数据
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhenrys&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenrys&layout=compact&theme=radical)
+
+### 📊 GitHub 活动
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
