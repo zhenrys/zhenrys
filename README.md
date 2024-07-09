@@ -1,4 +1,5 @@
 ##  👋 Hi there 
+## 你好，欢迎来到我的GitHub主页！
 
 ##  😄 A brief intro about me.
 - I’m currently learning statistics and data science in Nankai University.
@@ -10,7 +11,17 @@
 - Share my notes about various aspects of world, especially about movie and travelling.
 
 ## My slogan: keep looking, don't settle. 🌱
+![Keep looking](https://github.com/zhenrys/zhenrys/assets/158461986/5cdb78d6-c90b-4f23-9532-3672acaeb013)
+![Don't settle](https://github.com/zhenrys/zhenrys/assets/158461986/6c8d0d7d-0870-4593-9295-0372c79f6005)
+*photos from https://www.youtube.com/watch?v=Tuw8hxrFBH8*
 
 ## It's nice to meet you !!😄😄😄
+
+---
+
+## 📈 GitHub stats
+![zhenry's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenrys&show_icons=true&theme=radical)
+
+![访问者统计](https://visitor-badge.glitch.me/badge?page_id=zhenrys.zhenrys)
 
 
