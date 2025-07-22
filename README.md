@@ -11,23 +11,8 @@
 - Keep sharing my notes about various aspects of world, especially about movies and travelling.
 
 ## My slogan: keep looking, don't settle. 🌱
-![Don't settle!](https://github.com/zhenrys/zhenrys/assets/158461986/ae49a058-84bb-4f5d-bf10-76c0694cff56)
-
-*photos from https://www.youtube.com/watch?v=Tuw8hxrFBH8*
 
 ## It's nice to meet you !!😄😄😄
-
----
-
-### 📈 Github Data Stastics 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhenrys&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenrys&layout=compact&theme=radical)
-
-### 📊 GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -44,9 +29,21 @@
 - 坚持分享关于世界各个方面的笔记，尤其是关于电影和旅行的内容。
 
 ## 我的座右铭：保持探索，永不满足。🌱
-![永不满足！](https://github.com/zhenrys/zhenrys/assets/158461986/ae49a058-84bb-4f5d-bf10-76c0694cff56)
-
-*图片来源于https://www.youtube.com/watch?v=Tuw8hxrFBH8*
 
 ## 很高兴认识你😄😄😄
 
+---
+
+### 📈 Github Data Stastics 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhenrys&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenrys&layout=compact&theme=radical)
+
+### 📊 GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+![永不满足！](https://github.com/zhenrys/zhenrys/assets/158461986/ae49a058-84bb-4f5d-bf10-76c0694cff56)
+
+*图片来源于https://www.youtube.com/watch?v=Tuw8hxrFBH8*
