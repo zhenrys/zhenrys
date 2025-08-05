@@ -12,27 +12,8 @@
 
 ## My slogan: keep looking, don't settle. 🌱
 
-## It's nice to meet you !!😄😄😄
+## It's nice to meet you～
 
----
-
-## 👋 你好~
-
-## 😄 关于我的简单介绍
-- 我目前在南开大学学习统计学、数据科学以及计算机科学（尤其是视觉语言模型）。
-- 📫 联系我：newworld654@126.com
-- 欢迎访问[我的博客网站](https://zhenrys.github.io/)！
-
-## 我最近在做的事
-- 持续更新我的博客，分享我的想法和学习笔记，希望能帮助到更多人。
-- 不断学习计算机科学、数据科学相关知识。
-- 坚持分享关于世界各个方面的笔记，尤其是关于电影和旅行的内容。
-
-## 我的座右铭：保持探索，永不满足。🌱
-
-## 很高兴认识你😄😄😄
-
----
 
 ### 📈 Github Data Stastics 
 
@@ -43,7 +24,3 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-![永不满足！](https://github.com/zhenrys/zhenrys/assets/158461986/ae49a058-84bb-4f5d-bf10-76c0694cff56)
-
-*图片来源于https://www.youtube.com/watch?v=Tuw8hxrFBH8*
