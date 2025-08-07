@@ -9,7 +9,7 @@
 - Watch new movies(my favourite).
 - Travel around the world(if I get the chance).
 
-## 🌱 y slogan: keep looking, don't settle. 
+## 🌱 My slogan: keep looking, don't settle. 
 
 ## 🌱 It's nice to meet you～
 
