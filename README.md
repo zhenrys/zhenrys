@@ -1,14 +1,13 @@
 ##  👋 Hi there 
 
-##  😄 A brief intro about me.
+##  😄A brief intro about me.
 - I’m currently learning statistics, data science and CS(especially VLM) in Nankai University.
 - 📫 Contact me: newworld654@126.com
-- Welcome to [my blog website](https://zhenrys.github.io/)!
 
-##  What I'm doing recently
-- Keep updating my blog to share my ideas and learning notes to help more people.
+##  What I'm doing recently(or planning to do)
 - Keep learning CS, DS.
-- Keep sharing my notes about various aspects of world, especially about movies and travelling.
+- Watch new movies(my favourite).
+- Travel around the world(if I get the chance).
 
 ## My slogan: keep looking, don't settle. 🌱
 
