@@ -1,15 +1,11 @@
-##  👋 Hi there~
+# Hi there 👋
 
-## 🌱 A brief intro about me.
-- I’m currently learning statistics, data science and CS(especially VLM) in Nankai University.
-- 📫 Contact me: newworld654@126.com
+I'm **Henry Zhang**, now a senior student majoring in **Data Science** at the **School of Statistics and Data Science**, Nankai University.
 
-## 🌱 What I'm doing recently(or planning to do)
-- Keep learning CS, DS.
-- Watch new movies(my favourite).
-- Travel around the world(if I get the chance).
+My current academic focus lies in **Computer Science**, with a particular interest in **Vision-Language Large Models**—I’ve been actively learning and exploring cutting-edge techniques in this field to deepen my expertise.
 
-## 🌱 My slogan: keep looking, don't settle. 
+In addition to my academic pursuits, I’m a passionate **tech enthusiast** who loves staying updated on the latest digital gadgets and innovations. I’m also a fan of **movies** and **British/American TV shows**, and my all-time favorite franchises include *Game of Thrones*, *The Lord of the Rings*, *Sherlock*, and *Star Wars*.
 
-## 🌱 It's nice to meet you～
+If you share similar interests, feel free to reach out. You can drop me an email anytime: [zhanghenryNKU@163.com](mailto:zhanghenryNKU@163.com)
+
 
