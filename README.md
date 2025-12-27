@@ -2,7 +2,7 @@
 
 I'm **Henry Zhang**, now a senior student majoring in **Data Science** at the **School of Statistics and Data Science**, Nankai University.
 
-My current academic focus lies in **Computer Science**, with a particular interest in **Vision-Language Models**—I’ve been actively learning and exploring cutting-edge techniques in this field to deepen my expertise.
+My current academic focus lies in **Computer Science**, with a particular interest in **Vision-Language Models & Reinforcement Learning**
 
 In addition to my academic pursuits, I’m a passionate **tech enthusiast** who loves staying updated on the latest digital gadgets and innovations. I’m also a fan of **movies** and **British/American TV shows**, and my all-time favorite franchises include *Game of Thrones*, *The Lord of the Rings*, *Sherlock*, and *Star Wars*.
 
